@@ -28,3 +28,8 @@
   content: "";
   padding: 0;
 }
+.video-position {
+    /*margin-left: 7.5vw;*/
+    position: absolute;
+    z-index: -5;
+}
